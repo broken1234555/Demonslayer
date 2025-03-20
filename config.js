@@ -7,8 +7,8 @@ module.exports = {
     whiteList: [],
     ownerNumber: '94704442113',
     userTimezone: 'Asia/Colombo',
-    mongoUrl: 'mongodb+srv://Public:Public@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    dbName: 'Public', // Replace with your database name
+    mongoUrl: 'mongodb+srv://hello:mother@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    dbName: 'Nipuna Seneth', // Replace with your database name
     botDetails: {
         botName: 'Nipuna seneth',
         botAge: '16',
